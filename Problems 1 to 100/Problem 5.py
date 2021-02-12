@@ -9,5 +9,6 @@ while True:
     else:
         i += 2520
 
+        
 print(i)
 # 232792560
